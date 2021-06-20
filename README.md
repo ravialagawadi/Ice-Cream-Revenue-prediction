@@ -1,7 +1,18 @@
 # Ice-Cream-Revenue-prediction
-#By Ravi 10,may,2021
+
+Objective : 
+
+You own an ice cream business and you would like to create a model that could predict the 
+daily revenue in dollars based on the outside air temperature (degC)
+
+# Aabout Data Set : 
+Temperature : outside room temperature in celcius.
+
+Revenue : total revenue on differant season.
+
 #Import dataset
-#Data Preprocessing
+#Handling missing values 
 #Data Visualization
 #Linear Regression
-Making prediction & Accuaracy
+# Making prediction & Accuaracy
+# Model evaluation
