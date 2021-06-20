@@ -10,9 +10,16 @@ Temperature : outside room temperature in celcius.
 
 Revenue : total revenue on differant season.
 
-#Import dataset
-#Handling missing values 
-#Data Visualization
-#Linear Regression
-#Making prediction & Accuaracy
-#Model evaluation
+# Process overview :
+
+Import dataset
+
+Handling missing values 
+
+Data Visualization
+
+Linear Regression
+
+Making prediction & Accuaracy
+
+Model evaluation
