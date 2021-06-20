@@ -14,5 +14,5 @@ Revenue : total revenue on differant season.
 #Handling missing values 
 #Data Visualization
 #Linear Regression
-# Making prediction & Accuaracy
-# Model evaluation
+#Making prediction & Accuaracy
+#Model evaluation
